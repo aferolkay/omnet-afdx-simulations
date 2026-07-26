@@ -1,4 +1,4 @@
-package afdxsimulations.networks.basicTwoEndSystem;
+package afdxsimulations.simulations.networks.basicTwoEndSystem;
 
 import afdx.EndSystem;
 import afdx.Switch;
