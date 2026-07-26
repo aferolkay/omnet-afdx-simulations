@@ -1,0 +1,3 @@
+package afdxsimulations;
+
+@license(LGPL);
